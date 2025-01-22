@@ -16,7 +16,7 @@ Pokecard is an app that allows users to generate Pokémon cards
 
 
 
-### [WTWR APP front-end](https://github.com/dbelfla10/se_project_react) [Back-end](https://github.com/dbelfla10/se_project_express)
+### [WTWR APP Front-end](https://github.com/dbelfla10/se_project_react) and [Back-end](https://github.com/dbelfla10/se_project_express)
 What to Wear is an app that lets users view and add clothing items tailored to the weather conditions of their current location
 
 - Tech Stack: React, JavaScript, CSS, API interaction, React router, Vite, Jwt authentication, Node.js, Express.js, MongoDB, Mongoose, Postman, ESLint, Validator, bcryptjs, cors, and jsonwebtoken packages
